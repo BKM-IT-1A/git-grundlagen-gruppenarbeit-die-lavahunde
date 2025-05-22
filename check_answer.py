@@ -17,3 +17,4 @@ if __name__ == "__main__":
         print("Richtig")
     else:
         print("Falsch")
+.
